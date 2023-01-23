@@ -1,0 +1,21 @@
+public class Main {
+    fun main (args: Array<String>) {
+        var temp = 0;
+
+        while (true) {
+            println("What is your room's temperature?");
+            temp = readLine().toDouble();
+            if (temp < 97.5) {
+                println("The temperature is LOW");
+                break;
+            } else if (temp > 97.6 && temp < 99.6) {
+                println("The temperature is NORMAL");
+                break;
+            } else {
+                println("The temperature is HIGH");
+                break;
+            }
+
+        }
+        return null;
+    }}
