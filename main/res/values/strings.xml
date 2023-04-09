@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">LaunchIconsAndDecisionMaking</string>
-    <string name="title">Money Conversion</string>
-    <string name="txtHint">Measurement to Convert</string>
-    <string name ="txtDollarToEuro">Convert Dollars to Euros.</string>
-    <string name ="txtEuroToDollar">Convert Euros to Dollars.</string>
-    <string name ="button">Convert!</string>
-</resources>
