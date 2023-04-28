@@ -7,7 +7,7 @@
     tools:context=".MainActivity2">
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/editTextOne"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"
@@ -32,7 +32,7 @@
         tools:layout_editor_absoluteY="127dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName7"
+        android:id="@+id/editTextSeven"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"
@@ -57,7 +57,7 @@
         tools:layout_editor_absoluteY="331dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName6"
+        android:id="@+id/editTextSix"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"
@@ -71,7 +71,7 @@
         tools:layout_editor_absoluteY="297dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName5"
+        android:id="@+id/editTextFive"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"
@@ -118,7 +118,7 @@
         tools:layout_editor_absoluteY="263dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/editTextTwo"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"
@@ -143,7 +143,7 @@
         tools:layout_editor_absoluteY="161dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName4"
+        android:id="@+id/editTextFour"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"
@@ -168,7 +168,7 @@
         tools:layout_editor_absoluteY="297dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName3"
+        android:id="@+id/editTextThree"
         android:layout_width="211dp"
         android:layout_height="34dp"
         android:ems="10"

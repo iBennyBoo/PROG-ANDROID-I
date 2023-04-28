@@ -10,5 +10,6 @@
     <string name="verbOne">Verb #1:</string>
     <string name="verbTwo">Verb #2:</string>
     <string name="adverb">Adverb:</string>
-    <string name="buttonTwo">Let's Go!</string>
+    <string name="buttonTwo">Let\'s Go!</string>
+    <string name="errMessage">One or more text fields aren\'t filled out, please try again</string>
 </resources>
