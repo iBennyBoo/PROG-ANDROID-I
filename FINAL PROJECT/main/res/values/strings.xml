@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title">MadLibs!</string>
+    <string name="bio">In this app, you will fill out and create your own story using the words you enter. </string>
+    <string name="button">Let\'s Begin!</string>
+    <string name="nounOne">Noun #1:</string>
+    <string name="nounTwo">Noun #2:</string>
+    <string name="adjectiveOne">Adjective #1:</string>
+    <string name="adjectiveTwo">Adjective #2:</string>
+    <string name="verbOne">Verb #1:</string>
+    <string name="verbTwo">Verb #2:</string>
+    <string name="adverb">Adverb:</string>
+    <string name="buttonTwo">Let\'s Go!</string>
+    <string name="errMessage">One or more text fields aren\'t filled out, please try again</string>
+</resources>
